@@ -50,7 +50,7 @@
 		},
 		"pages/wrapper-assets/(.*)": {
 			"headers": {
-				"Content-Type": "text/html; charset=UTF-8"
+				"Content-Type": "text/css; charset=UTF-8"
 			}
 		},
 		"pages/fonts/(.*)": {
